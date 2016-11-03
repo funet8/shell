@@ -4,6 +4,7 @@
 #输入网卡和局域网路由器IP
 #http://www.funet8.com/2897.html
 
+
 read -p "请输入您公网网卡名称：（如:eth0）" ethx
 
 read -p "请输入您的局域网路由器IP：（如:192.168.1.1）" netip
