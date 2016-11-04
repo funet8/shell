@@ -4,6 +4,7 @@
 #输入网卡和局域网路由器IP
 #http://www.funet8.com/2897.html
 
+#https://github.com/funet8/shell/blob/master/check_internet.sh
 
 read -p "请输入您公网网卡名称：（如:eth0）" ethx
 
