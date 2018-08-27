@@ -1,0 +1,552 @@
+åŸŸåï¼šwww.ederbg.com
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+
+</title>
+<style type="text/css">
+    body { background-color: Gray; }
+    .exp_pop { width:360px; min-height:200px; background-color: #FFF; border-radius:10px; position:absolute; top:100px; left:50%; margin-left: -180px; padding: 8px 0 16px 0; }
+    .exp_pop_header { background: url(http://www.namebrightstatic.com/images/logo_off.gif) no-repeat; width:225px; height:57px; margin-top:8px; }
+    .exp_pop_sep { width:75%; border-top:1px solid gray; margin:8px 0; }
+    .exp_content { font-size:20px; color: #FF0000; margin:0 24px; padding:8px 0; }
+</style>
+</head>
+<body>
+    <form method="post" action="pages/Expired.aspx" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="IE87QSit641kc5KCZMWQKFGR+mOMUYMHUjTg7M9nYzlD9eFpPmiF0UCOgw/wrt4skgV7v1GzoDe4BWKSxDPh3fW9dPBkxiAWyFPDO8v4ngA=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="06D2431F" />
+    <div>
+        
+<div class="exp_pop" >
+    <center>
+        <div class="exp_pop_header"></div>
+    </center>
+    <center><div class="exp_pop_sep"></div></center>
+    <div class="exp_content">
+        <center>
+            <b>Warning!</b> EderBg.com has expired.
+            If this is your domain name you must renew it immediately before it is deleted and permanently removed from your account.
+            To renew this domain name visit <a href="http://www.NameBright.com">http://www.NameBright.com</a>
+        </center>
+    </div>
+</div>
+
+    </div>
+    </form>
+</body>
+</html>
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.ederbg.com
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+
+</title>
+<style type="text/css">
+    body { background-color: Gray; }
+    .exp_pop { width:360px; min-height:200px; background-color: #FFF; border-radius:10px; position:absolute; top:100px; left:50%; margin-left: -180px; padding: 8px 0 16px 0; }
+    .exp_pop_header { background: url(http://www.namebrightstatic.com/images/logo_off.gif) no-repeat; width:225px; height:57px; margin-top:8px; }
+    .exp_pop_sep { width:75%; border-top:1px solid gray; margin:8px 0; }
+    .exp_content { font-size:20px; color: #FF0000; margin:0 24px; padding:8px 0; }
+</style>
+</head>
+<body>
+    <form method="post" action="pages/Expired.aspx" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="tF6zTk8CVrbG5sgDjgAW0GGU1VrSt/PkPI/AOZwngeBSYf5O7qWX4JoIQGm+CMdX5pChHnAxHnVSCepSMfbcYOaCRg74XwnqRtkwD037oX4=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="06D2431F" />
+    <div>
+        
+<div class="exp_pop" >
+    <center>
+        <div class="exp_pop_header"></div>
+    </center>
+    <center><div class="exp_pop_sep"></div></center>
+    <div class="exp_content">
+        <center>
+            <b>Warning!</b> EderBg.com has expired.
+            If this is your domain name you must renew it immediately before it is deleted and permanently removed from your account.
+            To renew this domain name visit <a href="http://www.NameBright.com">http://www.NameBright.com</a>
+        </center>
+    </div>
+</div>
+
+    </div>
+    </form>
+</body>
+</html>
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.7477.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.vffsd.com
+curl: (6) Couldn't resolve host 'tg.vffsd.com'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.yhjut.com
+curl: (6) Couldn't resolve host 'tg.yhjut.com'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.ruizhan.net
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.aostang.com
+curl: (6) Couldn't resolve host 'tg.aostang.com'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.game-reign.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.8765wan.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.8765you.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.quwan88.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.xiaoyou998.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šv.tg.7477.com
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+<head><title>403 Forbidden</title></head>
+<body bgcolor="white">
+<h1>403 Forbidden</h1>
+<p>You don't have permission to access the URL on this server.<hr/>Powered by Tengine</body>
+</html>
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.3230.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.958800.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.11558.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.55116.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.9199199.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.vhuike.cn
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>66.cn¹úÓòÍø¡¢ÓòÃû×¢²á¡¢¹ıÆÚÓòÃû´ú×¢²á¡¢ÓòÃûÂÛÌ³¡¢ÓòÃûÖĞ½é</title>
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+ 	background-image: url(http://www.bbs.net/images/dw1_324.jpg);
+}
+.bj_01 {
+	background-image: url(http://www.bbs.net/images/zhu_17.gif);
+	background-repeat: repeat-y;
+	background-position: center center;
+}
+td {
+	font-family: "ËÎÌå", "ĞÂËÎÌå";
+	font-size: 12px;
+	line-height: 20px;
+	color: #333333;
+	text-decoration: none;
+}
+-->
+</style>
+</head>
+<body>
+<table width="500" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="http://www.bbs.net/images/zhu_3.gif" width="765" height="11" alt="" /></td>
+  </tr>
+  <tr>
+    <td class="bj_01"><table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="10%"><div align="center"><img src="http://www.bbs.net/images/rl_6.gif" alt="" width="102" height="76" hspace="5" vspace="5" /></div></td>
+        <td width="90%" valign="bottom"><table width="98%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><div align="right">
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="100%" align="center">Äú·ÃÎÊµÄÓòÃûÒò±»·ÅÆúĞø·Ñ£¨³¬¹ı½ØÖ¹ÈÕÆÚ30-60ÌìÒÔÉÏ£©¶ø±»É¾³ı£¬²¢±»ÎÒ¹«Ë¾¿Í»§Ô¤¶¨×¢²á¡£</td>
+                  <td width="7%"><img src="http://www.bbs.net/images/rl_8.gif" alt="" width="38" height="38" hspace="5" vspace="5" /></td>
+                </tr>
+              </table>
+              </div></td>
+          </tr>
+          <tr>
+            <td><img src="http://www.bbs.net/images/rl_11.gif" width="636" height="8" alt="" /></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td><p>È¡»Ø¸ÃÓòÃûµÄ²½Öè£º</p>
+          <p>ÄúÎªÊ²Ã´»á¿´µ½±¾Ò³ÃæÄØ?ÒòÎª±¾ÓòÃûÊÇµ½ÆÚºóÃ»ÓĞĞø·Ñ±»É¾³ıµÄÓòÃû£¬Í¬Ê±ÓÖÓĞÎÒÕ¾¿Í»§¹Ø×¢²¢ÊÂÏÈÏÂ¶¨µ¥Ô¤¶¨´ú×¢²á±¾ÓòÃû¡£Ã¿Ìì¶¼ÓĞÊıÒÔÍò¼ÆµÄ¹ú¼ÊºÍ¹úÄÚÓòÃûÒòµ½ÆÚÃ»ÓĞĞø·Ñ±»É¾³ıµôÏÂ£¬È«¹úÓĞ´óÔ¼30ÍòÓòÃû°®ºÃÕß»áÃ¿Ìì¹Ø×¢µ½ÆÚÉ¾³ıµÄÓòÃû¡£Èç¹ûËûÃÇ·¢ÏÖĞÄÒÇµÄÓòÃû£¬»áÔÚÎÒÕ¾»òÆäËûÊ®¼¸¼Ò×¢²áÉÌÏÂ¶¨µ¥£¬Î¯ÍĞ´ú×¢²áÕâĞ©ÓòÃû¡£Ò»°ãÉ¾³ıÊ±¼äÔÚÃ¿ÌìÁè³¿4µã£¬Ã»ÓĞ¾«Á¦°¾Ò¹µÄ¿Í»§»áÏÂ¶¨µ¥Î¯ÍĞÈô¸É¼Ò·şÎñÉÌ´ú×¢²áËûÃÇÑ¡¶¨µÄÓòÃû¡£Èç¹ûÕâĞ©ÓòÃû1-3ÌìÄÚÎŞÈË¾ºÕù£¬´óÔ¼3Ììºó»á×Ô¶¯¹ı»§µ½Î¯ÍĞÈËÃûÏÂ¡£Èç¹ûÍ¬Ê±ÓĞ¶àÈË¾ºÕù£¬¾Í»á×Ô¶¯·¢Æğ¾º¼Û¡£<br>½¨ÒéÄúÊ×ÏÈ¿ÉÒÔÍ¨¹ı¿Í·şÆóÒµQQ800020688×ÉÑ¯ÓòÃûÄ¿Ç°ËùÓĞÈËÇé¿ö¡£×¢Òâ£ºµ±Äú¿´µ½±¾Ò³Ãæ£¬Äú¿ÉÄÜÖ»ÓĞ¼¸Ğ¡Ê±ÖÁ1Ìì°ëÊ±¼ä¿ÉÒÔÈ¡»Ø±¾ÓòÃû£¨È«²¿¾º¼ÛÊ±¼äÖ»ÓĞ1-2Ìì°ë£©£¬ÒòÎª±¾ÓòÃû¿ÉÄÜÊÇÎÒ¹«Ë¾¿Í»§Ô¤¶¨×¢²áµÄÒÑÉ¾³ıÓòÃû£¬ÓĞ¿ÉÄÜÒÑ¾­±»ÆäËûÈË¹ºÂòÖ»ÊÇµÈ´ı¹ı»§£¬Èç¹û¹ı»§¸øËûÃÇÄúÖ»ÄÜÁªÏµËûÃÇ¹ºÂò´ËÓòÃû¡£</p>
+          <p>´ËÓòÃûÈç¹ûÊÇ±»ÎÒ¹«Ë¾¿Í»§Ô¤¶¨×¢²á»ò±»ÆäËûÈË¹ºÂò£¬ÎÒÃÇÎŞÈ¨µ¥¶ÀÏúÊÛ´ËÓòÃû£¬ÄúÖ»ÄÜµÇÂ½µ½ÎÒ¹«Ë¾ÍøÕ¾www.66.cn£¬²Î¼ÓÎªÆÚ1-2ÌìµÄÓòÃû¾º¼ÛÈÏÁì¡£Èç¹ûÄú×îºóµÃ±ê£¬Äú½«»ñµÃ´ËÓòÃû¡£²Î¼Ó¾º¼ÛÈÏÁìÄúÖ»Ğè¸¶ÉÙÁ¿±£Ö¤½ğ£¨¿ÉÍË»¹£©ºÍ50Ôª¾º¼Û¸¶¿î£¨Èç¹ûµÃ±êÒ²¿ÉÒÔÍË»¹£¬²»µÃ±ê²»ÄÜÍË»¹£¬´Ë¿îÏàµ±ÓÚÃÅÆ±£¬Îª¹ÄÀø¿Í»§»¨¾«Á¦É¸Ñ¡Ô¤¶¨£¬ÊÂÏÈÔ¤¶¨µÄ¿Í»§²»ÓÃ¸¶´Ë·ÑÓÃ£©¡£</p>
+          <p>²Î¼Ó¾º¼ÛÓòÃûµÄ²½ÖèÎª£º</p>
+          <p>1.ÔÚwww.66.cn×¢²áÒ»¸ö´úÀíÕÊ»§¡£</p>
+          <p>2.µã»÷www.66.cnÓÒÉÏ½ÇµÄ¡°ÈçºÎ½»·Ñ¡±£¬°´ÀïÃæÕÊ»§»ã¿î100Ôª£¨ÆäÖĞ50ÔªÎª¾º¼Û±£Ö¤½ğ£¬50ÔªÎª¾º¼Û¸¶¿î¡££©£¬»ã¿îºóÇëÁ¢¼´ÁªÏµÎÒÃÇ½«¿îÏîÂ¼Èëµ½ÄúÕÊ»§£¬»òÕßµÇÂ½ºóµã»÷¡°ÔÚÏßÖ§¸¶Ô¤¸¶¿î¡±£¬ÔÚÏßÖ§¸¶100Ôª¡£ÄúÖ§¸¶µÄÕâ¸ö100Ôª£¬Èç¹û¾º¼ÛÕı³£½áÊø£¬ÆäÖĞ50Ôª»áÍË»¹µ½ÄúÕÊ»§£¬Èç¹ûµÃ±ê£¬ÁíÍâ50ÔªÒ²»áÍË»¹µ½ÄúÕÊ»§¡£Ö§¸¶ÉÏÊö100Ôªºó£¬Äú¿ÉÒÔ×î¸ß³ö¼Ûµ½499Ôª£¬Äú¿ÉÒÔÔÚ¾º¼Û½áÊøºó3ÌìÄÚ²¹ÆëÓà¿î£¬ÎÒÃÇ¾Í»á½«ÓòÃû¹ı»§¸øÄú¡£Èç¹ûĞèÒª³ö¸ü¸ßµÄ¾º¼Û¼Û¸ñ£¬±ÈÈç³ö¼Û500-999ÔªĞèÒª¶àÖ§¸¶50Ôª±£Ö¤½ğ£¬³ö¼Û1000-1999ÔªĞèÒª¶àÖ§¸¶150Ôª±£Ö¤½ğ£¬³ö¼Û2000-2999ÔªĞèÒª¶àÖ§¸¶250Ôª±£Ö¤½ğ£¬ÒÔ´ËÀàÍÆÃ¿¶à³ö1000ÔªĞèÒª¶àÖ§¸¶100Ôª±£Ö¤½ğ¡£</p>
+          <p>3.×ĞÏ¸ÔÄ¶ÁµÇÂ½ºó´úÀíÇøµÄ¡°ÓòÃûÅÄÂô¹æÔò¡±ºÍ¡°ÓòÃûÔ¤¶¨¹æÔò¡±¡£</p>
+          <p>4.µã»÷´úÀíÇøÓòÃûÁĞ±íÀïÄú¸ĞĞËÈ¤ÓòÃûÅÔ±ßµÄ¡°¾º¼Û¡±£¬²ÎÓë¾º¼Û¡£Èç¹ûÄúÊÇµÚÒ»´Î²Î¼Ó´ËÀàÍøÉÏ¾º¼Û»î¶¯£¬Çë×¢ÒâÒÔÏÂ¼¸µã£ºÒ»°ã²Î¼Ó¾º¼ÛµÄ¿Í»§¶àÊıÏ²»¶ÔÚ½áÊøÅÄÂôµÄ×îºóÊ±¼ä³ö¼Û£¬ËùÒÔÄúÎñ±ØÔÚÅÄÂôµÄ½áÊøÊ±¼äÇ°10·ÖÖÓµÇÂ½ÍøÕ¾¹Û²ìÅÄÂô½øÕ¹£¬»òÕßÄúÌáÇ°³öÒ»¸ö´úÀí¼Û¸ñ¡£ÔÚÅÄÂô½áÊøÇ°5·ÖÖÓÄÚÈç¹ûÓĞÈË³ö¼Û£¬ÅÄÂô½áÊøÊ±¼ä½«×Ô¶¯ÑÓºó5·ÖÖÓ¡£Èç¹ûÄú·¢ÏÖÄú³ö¼Ûºó£¬ÓĞÈË×Ô¶¯ÔÚÍ¬Ò»Ë²Ê±³öÁË¸ö¸ßÓÚÄãµÄ¼Û¸ñ£¬ËµÃ÷¶Ô·½ÊÂÏÈ³öÁË´úÀí¼Û¸ñ¡£ÓĞ¹Ø´úÀí¼Û¸ñµÄËµÃ÷Çë²Î¿¼µÇÂ½ÇøÀïµÄÓòÃûÅÄÂô¹æÔò¡£</p>
+          <p>5.Èç¹ûÄúµÃ±ê£¬ÔÚ²¹×ãÓà¿î²¢Ìá½»ÊµÃû²ÄÁÏºó£¬ÎÒÃÇ½«ÔÚ1¸ö¹¤×÷ÈÕÄÚÎªÄú¹ı»§ºÃÓòÃû£¬²¢·Åµ½ÄúµÄ´úÀíÕÊ»§ÏÂ£¬Äú¿ÉÒÔµÇÂ½ÏµÍ³¹ÜÀí¸ÃÓòÃû£¬²¢¿ÉÒÔ£¨ÔÚ×¢²áÆÚÂú2¸öÔÂºó£©×ÔÓÉ×ªÒÆ×¢²áÉÌ¡£</p></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td><img src="http://www.bbs.net/images/rl_11.gif" width="636" height="8" alt="" /></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td><p>¹úÓòÍø£º<a href="http://www.66.cn">http://www.66.cn</a><br />
+          ÁªÏµµç»°£º010-82083972 82083970 89198800 62058918  <br />
+        ´« Õæ£º010-82083970 ÆóÒµQQ£º800020688</p>
+          </td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><img src="http://www.bbs.net/images/zhu_19.gif" width="765" height="14" alt="" /></td>
+  </tr>
+</table>
+</body>
+</html>
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šmtg.bgfsq.com
+curl: (6) Couldn't resolve host 'mtg.bgfsq.com'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šmtg.fdjiaoyou.com
+curl: (6) Couldn't resolve host 'mtg.fdjiaoyou.com'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.125088.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.100669.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.200218.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.8899188.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.878088.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štgs.7477.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.ivyvi.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.4045007.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.slsy888.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.lsss1.com
+curl: (6) Couldn't resolve host 'tg.lsss1.com'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.3dchike.com
+curl: (6) Couldn't resolve host 'tg.3dchike.com'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.0993sw.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.0561zxw.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.rc418.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.game88f.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.weixinxz.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.jjhzgame.com
+curl: (6) Couldn't resolve host 'tg.jjhzgame.com'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.fincj.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.07446666.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.19669898.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.cfdeli.com
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="https://www.hugedomains.com/domain_profile.cfm?d=cfdeli&amp;e=com">here</a>.</h2>
+</body></html>
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.0871zxw.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.qkzyys.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.cwx58.com
+curl: (6) Couldn't resolve host 'tg.cwx58.com'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.mzhweb.com.cn
+curl: (6) Couldn't resolve host 'tg.mzhweb.com.cn'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.wodou2015.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.mzhrun.net.cn
+curl: (6) Couldn't resolve host 'tg.mzhrun.net.cn'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.zchudong.top
+curl: (6) Couldn't resolve host 'tg.zchudong.top'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.6618181.cn
+curl: (6) Couldn't resolve host 'tg.6618181.cn'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šwww.6618181.cn
+curl: (6) Couldn't resolve host 'www.6618181.cn'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼š6618181.cn
+curl: (6) Couldn't resolve host '6618181.cn'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.7891896.cn
+curl: (6) Couldn't resolve host 'tg.7891896.cn'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šwww.7891896.cn
+curl: (6) Couldn't resolve host 'www.7891896.cn'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼š7891896.cn
+curl: (6) Couldn't resolve host '7891896.cn'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.bqcnet.top
+curl: (6) Couldn't resolve host 'tg.bqcnet.top'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.glfen.top
+curl: (6) Couldn't resolve host 'tg.glfen.top'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.qichangs.com
+curl: (6) Couldn't resolve host 'tg.qichangs.com'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼š7477.hfxap.com
+curl: (6) Couldn't resolve host '7477.hfxap.com'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼š7477.qichangs.cn
+curl: (6) Couldn't resolve host '7477.qichangs.cn'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼š7891918.cn
+curl: (6) Couldn't resolve host '7891918.cn'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šwww.7891918.cn
+curl: (6) Couldn't resolve host 'www.7891918.cn'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.7891918.cn
+curl: (6) Couldn't resolve host 'tg.7891918.cn'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼š7477.bqcnet.cn
+curl: (6) Couldn't resolve host '7477.bqcnet.cn'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼š360tg.yuanhi.cn
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šlingsoubda.bqcnet.cn
+curl: (6) Couldn't resolve host 'lingsoubda.bqcnet.cn'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼š360tg1.homiyo.cn
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼š360yytg1.zitouwang.cn
+curl: (7) couldn't connect to host
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼š7477.77xinyou.com
+curl: (6) Couldn't resolve host '7477.77xinyou.com'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼š360tg1.niswodeaia.com
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS7</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#B3B3B3;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="welcome.png" alt="IIS7" width="571" height="411" /></a>
+</div>
+</body>
+</html>##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šbdtg1.whdwss.com
+curl: (6) Couldn't resolve host 'bdtg1.whdwss.com'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šwh.weilaoo.com
+<html>
+<head>
+<meta http-equiv="Content-Type" content="textml;charset=UTF-8" />
+   <style>body{background-color:#FFFFFF}</style> 
+<title>TestPage184</title>
+  <script language="javascript" type="text/javascript">
+         window.onload = function () { 
+           document.getElementById("mainFrame").src= "http://batit.aliyun.com/alww.html"; 
+            }
+</script>   
+</head>
+  <body>
+    <iframe style="width:860px; height:500px;position:absolute;margin-left:-430px;margin-top:-250px;top:50%;left:50%;" id="mainFrame" src="" frameborder="0" scrolling="no"></iframe>
+    </body>
+      </html>
+
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šlingsou.weilaoo.com
+curl: (6) Couldn't resolve host 'lingsou.weilaoo.com'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šyy.za-ad.cc
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼š7477.mzhxx.org.cn
+curl: (6) Couldn't resolve host '7477.mzhxx.org.cn'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šss.qiyuvpn1.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼š9199199.com
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta name="format-detection" content="telephone=no" />
+<script type="text/javascript" src="http://tg.7477.com/mtg/common/js/flexible.js"></script>
+<script type="text/javascript" src="http://tg.7477.com/mtg/common/js/jquery-1.12.3.min.js"></script>
+<script type="text/javascript" src="http://tg.7477.com/mtg/common/js/cps.js"></script>
+<title>å®˜æ–¹ã€Šç„šå¤©è¯€ã€‹å¹´åº¦äººæ°”æ‰‹æ¸¸ç«çƒ­æ¥è¢­</title>
+<link href="http://tg.7477.com/mtg/common/css/style.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="http://tg.7477.com/mtg/common/css/swiper.min.css" />
+<script>var appname = 'ftj', gameName = 'ftj';</script>
+<style type="text/css">
+    	.part{width: 100%;position: relative;}
+    	.swiper-container{position: absolute;top: 0.234375rem;left: 0.234375rem;width: 9.53125rem;height: 5.328125rem;}
+    </style>
+</head>
+<body>
+<div id="wrapper">
+<a class="fixed_top pkg_download" href="javascript:void(0);">
+<img src="http://tg.7477.com/mtg/ftj/hz/ftj-a3/images/top.jpg" />
+</a>
+<img style="margin-top: 2.0312rem;" src="http://tg.7477.com/mtg/ftj/hz/ftj-a3/images/bg1.jpg" />
+<div class="part">
+<img src="http://tg.7477.com/mtg/ftj/hz/ftj-a3/images/bg2.jpg" />
+<div class="swiper-container">
+<div class="swiper-wrapper">
+<div class="swiper-slide"><img src="http://tg.7477.com/mtg/ftj/hz/ftj-a3/images/img1.jpg" /></div>
+<div class="swiper-slide"><img src="http://tg.7477.com/mtg/ftj/hz/ftj-a3/images/img2.jpg" /></div>
+</div>
+</div>
+</div>
+<img src="http://tg.7477.com/mtg/ftj/hz/ftj-a3/images/bg3.jpg" />
+<a class="pkg_download all_link" href="javascript:void(0);"></a>
+<input type="hidden" name="appid" id="appid" value="116">
+<script type="text/javascript" src="http://tg.7477.com/mtg/common/js/tongji.js"></script>
+<script type="text/javascript" src="http://tg.7477.com/mtg/common/js/swiper.min.js"></script>
+<script>
+	$(document).ready(function () {
+	  var mySwiper = new Swiper ('.swiper-container', {
+	    autoplay: 4000,
+	    loop:true
+	  })
+	});
+	</script>
+</div>
+</body>
+</html>##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.wenqingsh.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.wenqing02.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šdgr.zs-wl.cc
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šqd.tg.7477.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.play917.com
+curl: (6) Couldn't resolve host 'tg.play917.com'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šcq.zs-wl.cc
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šed.zs-wl.cc
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šes.zs-wl.cc
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.tinghen.top
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šxyxx.sswlao.cn
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šltcs.sswlac.cn
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.sswlad.cn
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.sswlat.cn
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.sswlan.cn
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šltcs1.sswlbx.cn
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šsgz.sswlch.cn
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šwgxz.sswlae.cn
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šysl.wodou2015.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štgm.sswlad.cn
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šftj.sswlav.cn
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šjxqy.sswlaw.cn
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šsgz2.sswlax.cn
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg1.weile1.com
+curl: (6) Couldn't resolve host 'tg1.weile1.com'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šss.wanqu7.vip
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg1.17hds.net
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šlscx.91muzhi.com
+curl: (6) Couldn't resolve host 'lscx.91muzhi.com'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.zzwl1.cn
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg1.1weihe.com
+curl: (6) Couldn't resolve host 'tg1.1weihe.com'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg1.wh-99.cn
+curl: (6) Couldn't resolve host 'tg1.wh-99.cn'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg1.whdw8.com
+curl: (6) Couldn't resolve host 'tg1.whdw8.com'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg1.sswlch.cn
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šef.zs-wl.cc
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg.wuji.7477.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šyy.nn1078.com
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼š6873.com
+<!DOCTYPE html><html><head><meta charset=utf-8><title>6873æ¸¸æˆ</title><meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,initial-scale=1"><meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1"><meta name=renderer content=webkit><meta name=keywords content=""><meta name=description content=""><meta name=format-detection content="telephone=no"><meta name=format-detection content="email=no"><meta name=msapplication-tap-highlight content=no><meta name=apple-touch-fullscreen content=yes><meta name=mobile-web-app-capable content=yes><link rel="shortcut icon" href=favicon.ico type=image/x-icon><script src=http://play.6873.com/public/static1/js/jquery.min.js></script><script src=http://res.wx.qq.com/open/js/jweixin-1.2.0.js></script><script src=http://play.6873.com/public/static1/js/sageWx.js></script><link href=/static/css/app.bb278304edd7a734c3d85dab02b888ac.css rel=stylesheet></head><body><div style="display: none"><script src="https://s13.cnzz.com/z_stat.php?id=1263592892&web_id=1263592892" language=JavaScript></script></div><div id=app></div><script type=text/javascript src=/static/js/manifest.5a1899e3a0ced8f2bada.js></script><script type=text/javascript src=/static/js/vendor.43d05806dde3a7e2092f.js></script><script type=text/javascript src=/static/js/app.f774fc3416393078b2c0.js></script></body><script>var wxSdk = window.SAGEWX_SDK;
+    var code = wxSdk.getQueryString('code');
+    if (wxSdk.isWeixin()) {
+      if (code!=null) {
+        wxSdk.wxLogin(code);
+      } else {
+        window.location.href = wxSdk.getWxUrl();
+//           return false;
+      }
+    }</script></html>##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼štg1.weihepa.com
+curl: (6) Couldn't resolve host 'tg1.weihepa.com'
+##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šbd1.my5399.com.cn
+ï»¿dir##########åˆ†å‰²çº¿######################################################
+åŸŸåï¼šbdss.yxbox91.com;
+curl: (6) Couldn't resolve host 'bdss.yxbox91.com;'
+##########åˆ†å‰²çº¿######################################################
